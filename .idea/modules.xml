@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Binary Search Algorithm/Binary Search Algorithm.iml" filepath="$PROJECT_DIR$/Binary Search Algorithm/Binary Search Algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/JAVA.iml" filepath="$PROJECT_DIR$/.idea/JAVA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java-Bootcamp-Problem-Solutions/Java-Bootcamp-Problem-Solutions.iml" filepath="$PROJECT_DIR$/Java-Bootcamp-Problem-Solutions/Java-Bootcamp-Problem-Solutions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linear Search Algorithm/Linear Search Algorithm.iml" filepath="$PROJECT_DIR$/Linear Search Algorithm/Linear Search Algorithm.iml" />
+      <module fileurl="file://$PROJECT_DIR$/intelliJ_Idea_Programs/intelliJ_Idea_Programs.iml" filepath="$PROJECT_DIR$/intelliJ_Idea_Programs/intelliJ_Idea_Programs.iml" />
+    </modules>
+  </component>
+</project>
